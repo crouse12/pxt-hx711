@@ -1,5 +1,5 @@
 {
-    "name": "pxt-HX711",
+    "name": "pxt-hx711",
     "version": "1.0.19",
     "description": "",
     "dependencies": {
@@ -11,7 +11,7 @@
         "weight_load_cell_microbit_connections.jpg",
         "gauge_mounting.jpg",
         "HX711.ts",
-        "_locales/zh/pxt-HX711-strings.json"
+        "_locales/zh/pxt-hx711-strings.json"
     ],
     "testFiles": [
         "test.ts"
