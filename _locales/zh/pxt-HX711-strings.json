@@ -1,6 +1,6 @@
 {
-    "pxt-HX711|block": "HX711",
-    "pxt-HX711.SET_SCK|block": "HX711設定ClockPin %pinPD_SCK",
-    "pxt-HX711.SET_DOUT|block": "HX711設定DataPin %pinDOUT",
-    "pxt-HX711.HX711_BEGIN|block": "開始"
+    "HX711|block": "HX711",
+    "HX711.SET_SCK|block": "HX711設定ClockPin %pinPD_SCK",
+    "HX711.SET_DOUT|block": "HX711設定DataPin %pinDOUT",
+    "HX711.HX711_BEGIN|block": "開始"
 }
