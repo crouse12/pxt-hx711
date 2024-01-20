@@ -10,7 +10,8 @@
         "HX711_functions.jpeg",
         "weight_load_cell_microbit_connections.jpg",
         "gauge_mounting.jpg",
-        "HX711.ts"
+        "HX711.ts",
+        "_locales/zh/pxt-hx711-strings.json"
     ],
     "testFiles": [
         "test.ts"
