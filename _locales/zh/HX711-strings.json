@@ -1,8 +1,10 @@
 {
     "HX711|block": "電子秤",
-    "HX711.SET_SCK|block": "HX711設定ClockPin %pinPD_SCK",
-    "HX711.SET_DOUT|block": "HX711設定DataPin %pinDOUT",
+    "HX711.SET_DOUT|block": "HX711 設定 DataPin %pinDOUT",
+    "HX711.SET_SCK|block": "HX711 設定 ClockPin %pinPD_SCK",
     "HX711.HX711_BEGIN|block": "開始",
     "HX711.HX711_READ|block": "讀取",
-    "HX711.HX711_READ_AVERAGE|block": "讀取 N 次平均資料 %times"
+    "HX711.HX711_GET_VALUE|block": "讀取 N 次資料的平均位移 %times",
+    "HX711.HX711_GET_UNITS|block": "讀取 N 次資料的平均比例 %times",
+    "HX711.HX711_READ_AVERAGE|block": "讀取 N 次資料的平均資料 %times"
 }
