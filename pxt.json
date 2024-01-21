@@ -1,5 +1,5 @@
 {
-    "name": "pxt-hx711",
+    "name": "HX711",
     "version": "1.0.19",
     "description": "",
     "dependencies": {
