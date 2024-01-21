@@ -4,8 +4,8 @@
     "HX711.SetPIN_SCK|block": "HX711 設定 ClockPin %pinPD_SCK",
     "HX711.begin|block": "開始",
     "HX711.read|block": "讀取",
-    "HX711.get_value|block": "讀取 N 次資料的平均位移 %times",
-    "HX711.get_units|block": "讀取 N 次資料的平均比例 %times",
+    "HX711.get_value|block": "讀取 %times 次資料的平均位移",
+    "HX711.get_units|block": "讀取 %times 次資料的平均比例",
     "HX711.set_scale|block": "設定比例 %scale",
     "HX711.get_scale|block": "取得比例",
     "HX711.set_offset|block": "設定位移 %offset",
@@ -13,5 +13,5 @@
     "HX711.power_up|block": "開啟電源",
     "HX711.tare|block": "歸零 %times 次",
     "HX711.power_down|block": "關閉電源",
-    "HX711.read_average|block": "讀取 N 次資料的平均資料 %times"
+    "HX711.read_average|block": "讀取 %times 次資料的平均資料"
 }
